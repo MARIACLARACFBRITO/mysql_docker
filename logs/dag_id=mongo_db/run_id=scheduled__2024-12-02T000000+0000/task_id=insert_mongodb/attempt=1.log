@@ -1,0 +1,28 @@
+[2025-06-06T18:21:25.674+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-06-06T18:21:25.758+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: mongo_db.insert_mongodb scheduled__2024-12-02T00:00:00+00:00 [queued]>
+[2025-06-06T18:21:25.862+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: mongo_db.insert_mongodb scheduled__2024-12-02T00:00:00+00:00 [queued]>
+[2025-06-06T18:21:25.871+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 3
+[2025-06-06T18:21:26.036+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): insert_mongodb> on 2024-12-02 00:00:00+00:00
+[2025-06-06T18:21:26.173+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=217) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-06-06T18:21:26.231+0000] {standard_task_runner.py:72} INFO - Started process 239 to run task
+[2025-06-06T18:21:26.199+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'mongo_db', 'insert_mongodb', 'scheduled__2024-12-02T00:00:00+00:00', '--job-id', '579', '--raw', '--subdir', 'DAGS_FOLDER/alimenta_mongo.py', '--cfg-path', '/tmp/tmpr42cxhqb']
+[2025-06-06T18:21:26.247+0000] {standard_task_runner.py:105} INFO - Job 579: Subtask insert_mongodb
+[2025-06-06T18:21:26.857+0000] {task_command.py:467} INFO - Running <TaskInstance: mongo_db.insert_mongodb scheduled__2024-12-02T00:00:00+00:00 [running]> on host 25571a4a1d8c
+[2025-06-06T18:21:27.597+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Maria Clara' AIRFLOW_CTX_DAG_ID='mongo_db' AIRFLOW_CTX_TASK_ID='insert_mongodb' AIRFLOW_CTX_EXECUTION_DATE='2024-12-02T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-12-02T00:00:00+00:00'
+[2025-06-06T18:21:27.603+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-06-06T18:21:27.606+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-06-06T18:21:27.618+0000] {logging_mixin.py:190} INFO - Current task name:insert_mongodb state:running start_date:2025-06-06 18:21:25.780947+00:00
+[2025-06-06T18:21:27.631+0000] {logging_mixin.py:190} INFO - Dag name:mongo_db and current dag run status:running
+[2025-06-06T18:21:27.647+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-06-06T18:21:28.169+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-06-06T18:21:28.228+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-06-06T18:21:28.229+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=mongo_db, task_id=insert_mongodb, run_id=scheduled__2024-12-02T00:00:00+00:00, execution_date=20241202T000000, start_date=20250606T182125, end_date=20250606T182128
+[2025-06-06T18:21:28.300+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-06-06T18:21:28.309+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-06-06T18:21:28.316+0000] {logging_mixin.py:190} INFO - Dag name:mongo_db queued_at:2025-06-06 18:21:04.341089+00:00
+[2025-06-06T18:21:28.328+0000] {logging_mixin.py:190} INFO - Task hostname:25571a4a1d8c operator:PythonOperator
+[2025-06-06T18:21:28.439+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-06-06T18:21:28.602+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-06-06T18:21:28.672+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

@@ -1,0 +1,1268 @@
+[2025-06-06T19:01:01.409+0000] {processor.py:186} INFO - Started process (PID=3648) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:01:01.413+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:01:01.420+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:01:01.418+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:01:01.466+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:01:01.457+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:01:01.468+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:01:01.563+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.176 seconds
+[2025-06-06T19:01:32.110+0000] {processor.py:186} INFO - Started process (PID=3711) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:01:32.114+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:01:32.118+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:01:32.117+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:01:32.159+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:01:32.157+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:01:32.161+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:01:32.223+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.135 seconds
+[2025-06-06T19:02:02.390+0000] {processor.py:186} INFO - Started process (PID=3774) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:02.393+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:02:02.397+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:02:02.396+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:02.428+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:02:02.425+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:02:02.430+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:02.479+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.106 seconds
+[2025-06-06T19:02:19.761+0000] {processor.py:186} INFO - Started process (PID=3812) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:19.765+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:02:19.770+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:02:19.769+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:19.823+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:02:19.820+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db:
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:02:19.831+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:19.922+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.190 seconds
+[2025-06-06T19:02:50.275+0000] {processor.py:186} INFO - Started process (PID=3874) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:50.278+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:02:50.281+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:02:50.280+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:50.320+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:02:50.317+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db:
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:02:50.322+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:02:50.380+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.123 seconds
+[2025-06-06T19:03:20.942+0000] {processor.py:186} INFO - Started process (PID=3935) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:03:20.944+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:03:20.947+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:03:20.947+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:03:20.983+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:03:20.980+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db:
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:03:20.984+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:03:21.031+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.106 seconds
+[2025-06-06T19:03:51.785+0000] {processor.py:186} INFO - Started process (PID=3998) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:03:51.788+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:03:51.794+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:03:51.792+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:03:51.844+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:03:51.841+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db:
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:03:51.847+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:03:51.915+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.162 seconds
+[2025-06-06T19:04:22.236+0000] {processor.py:186} INFO - Started process (PID=4061) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:04:22.239+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:04:22.243+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:04:22.242+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:04:22.278+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:04:22.275+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db:
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:04:22.279+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:04:22.329+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.108 seconds
+[2025-06-06T19:04:53.081+0000] {processor.py:186} INFO - Started process (PID=4121) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:04:53.092+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:04:53.117+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:04:53.108+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:04:53.198+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:04:53.194+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db:
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:04:53.207+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:04:53.399+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.345 seconds
+[2025-06-06T19:05:23.666+0000] {processor.py:186} INFO - Started process (PID=4183) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:23.668+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:05:23.672+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:05:23.671+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:23.702+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:05:23.699+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db:
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:05:23.704+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:23.751+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.103 seconds
+[2025-06-06T19:05:53.878+0000] {processor.py:186} INFO - Started process (PID=4245) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:53.881+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:05:53.886+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:05:53.885+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:53.925+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:05:53.923+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 9
+    def connect_db:
+                  ^
+SyntaxError: expected '('
+[2025-06-06T19:05:53.927+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:53.980+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.123 seconds
+[2025-06-06T19:05:59.738+0000] {processor.py:186} INFO - Started process (PID=4256) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:59.740+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:05:59.746+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:05:59.744+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:59.808+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:05:59.799+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 5, in <module>
+    import pymysql  #criar dockerfile para garantir que seja instalado o pymongo
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pymysql'
+[2025-06-06T19:05:59.815+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:05:59.904+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.187 seconds
+[2025-06-06T19:06:30.088+0000] {processor.py:186} INFO - Started process (PID=4319) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:06:30.092+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:06:30.101+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:06:30.098+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:06:30.193+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:06:30.163+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 5, in <module>
+    import pymysql  #criar dockerfile para garantir que seja instalado o pymongo
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pymysql'
+[2025-06-06T19:06:30.206+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:06:30.278+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.213 seconds
+[2025-06-06T19:07:00.854+0000] {processor.py:186} INFO - Started process (PID=4381) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:07:00.859+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:07:00.864+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:07:00.863+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:07:00.963+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:07:00.922+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 5, in <module>
+    import pymysql  #criar dockerfile para garantir que seja instalado o pymongo
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pymysql'
+[2025-06-06T19:07:00.974+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:07:01.051+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.225 seconds
+[2025-06-06T19:07:31.436+0000] {processor.py:186} INFO - Started process (PID=4443) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:07:31.440+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:07:31.445+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:07:31.444+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:07:31.495+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:07:31.488+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 5, in <module>
+    import pymysql  #criar dockerfile para garantir que seja instalado o pymongo
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pymysql'
+[2025-06-06T19:07:31.498+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:07:31.551+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.140 seconds
+[2025-06-06T19:08:01.840+0000] {processor.py:186} INFO - Started process (PID=4506) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:08:01.842+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:08:01.845+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:08:01.844+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:08:01.880+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:08:01.873+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 5, in <module>
+    import pymysql  #criar dockerfile para garantir que seja instalado o pymongo
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pymysql'
+[2025-06-06T19:08:01.883+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:08:01.926+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.099 seconds
+[2025-06-06T19:08:32.387+0000] {processor.py:186} INFO - Started process (PID=4566) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:08:32.389+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:08:32.392+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:08:32.391+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:08:32.431+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:08:32.422+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 5, in <module>
+    import pymysql  #criar dockerfile para garantir que seja instalado o pymongo
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pymysql'
+[2025-06-06T19:08:32.434+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:08:32.486+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.115 seconds
+[2025-06-06T19:09:02.819+0000] {processor.py:186} INFO - Started process (PID=4626) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:09:02.823+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:09:02.829+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:09:02.827+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:09:03.036+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:09:02.992+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 5, in <module>
+    import pymysql  #criar dockerfile para garantir que seja instalado o pymongo
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pymysql'
+[2025-06-06T19:09:03.048+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:09:03.139+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.343 seconds
+[2025-06-06T19:09:33.417+0000] {processor.py:186} INFO - Started process (PID=4688) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:09:33.420+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:09:33.425+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:09:33.423+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:09:33.474+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:09:33.462+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/alimenta_mysql.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/alimenta_mysql.py", line 5, in <module>
+    import pymysql  #criar dockerfile para garantir que seja instalado o pymongo
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pymysql'
+[2025-06-06T19:09:33.479+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:09:33.552+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.156 seconds
+[2025-06-06T19:26:11.126+0000] {processor.py:186} INFO - Started process (PID=73) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:26:11.147+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:26:11.156+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:26:11.155+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:26:11.249+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:26:11.933+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:26:11.932+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:26:11.995+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:26:11.995+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:26:12.059+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.964 seconds
+[2025-06-06T19:26:42.293+0000] {processor.py:186} INFO - Started process (PID=137) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:26:42.296+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:26:42.306+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:26:42.304+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:26:42.409+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:26:42.508+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:26:42.507+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:26:42.629+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:26:42.628+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:26:42.699+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.429 seconds
+[2025-06-06T19:27:12.983+0000] {processor.py:186} INFO - Started process (PID=200) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:27:12.985+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:27:12.990+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:27:12.989+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:27:13.050+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:27:13.102+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:27:13.101+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:27:13.168+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:27:13.168+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:27:13.212+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.248 seconds
+[2025-06-06T19:27:43.892+0000] {processor.py:186} INFO - Started process (PID=262) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:27:43.895+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:27:43.902+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:27:43.902+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:27:43.973+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:27:44.023+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:27:44.022+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:27:44.082+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:27:44.081+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:27:44.134+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.257 seconds
+[2025-06-06T19:28:14.379+0000] {processor.py:186} INFO - Started process (PID=325) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:28:14.384+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:28:14.393+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:28:14.392+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:28:14.461+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:28:14.509+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:28:14.508+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:28:14.577+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:28:14.577+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:28:14.620+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.270 seconds
+[2025-06-06T19:28:45.215+0000] {processor.py:186} INFO - Started process (PID=388) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:28:45.217+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:28:45.224+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:28:45.223+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:28:45.287+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:28:45.328+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:28:45.327+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:28:45.382+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:28:45.382+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:28:45.431+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.232 seconds
+[2025-06-06T19:29:15.775+0000] {processor.py:186} INFO - Started process (PID=451) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:29:15.778+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:29:15.790+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:29:15.789+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:29:15.861+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:29:15.928+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:29:15.927+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:29:16.015+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:29:16.015+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:29:16.069+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.316 seconds
+[2025-06-06T19:29:46.564+0000] {processor.py:186} INFO - Started process (PID=514) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:29:46.567+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:29:46.578+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:29:46.577+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:29:46.638+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:29:46.689+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:29:46.688+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:29:46.760+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:29:46.759+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:29:46.812+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.281 seconds
+[2025-06-06T19:30:17.384+0000] {processor.py:186} INFO - Started process (PID=577) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:30:17.387+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:30:17.395+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:30:17.393+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:30:17.478+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:30:17.527+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:30:17.526+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:30:17.595+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:30:17.595+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:30:17.644+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.282 seconds
+[2025-06-06T19:30:47.982+0000] {processor.py:186} INFO - Started process (PID=640) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:30:47.985+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:30:47.995+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:30:47.993+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:30:48.074+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:30:48.123+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:30:48.122+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:30:48.189+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:30:48.189+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:30:48.240+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.277 seconds
+[2025-06-06T19:31:19.056+0000] {processor.py:186} INFO - Started process (PID=703) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:31:19.058+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:31:19.063+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:31:19.062+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:31:19.127+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:31:19.170+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:31:19.170+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:31:19.244+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:31:19.243+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:31:19.292+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.250 seconds
+[2025-06-06T19:31:50.284+0000] {processor.py:186} INFO - Started process (PID=766) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:31:50.287+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:31:50.300+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:31:50.299+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:31:50.385+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:31:50.467+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:31:50.466+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:31:50.577+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:31:50.576+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:31:50.664+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.402 seconds
+[2025-06-06T19:32:20.799+0000] {processor.py:186} INFO - Started process (PID=829) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:32:20.803+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:32:20.814+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:32:20.813+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:32:20.877+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:32:20.919+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:32:20.918+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:32:20.991+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:32:20.991+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:32:21.038+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.257 seconds
+[2025-06-06T19:32:51.446+0000] {processor.py:186} INFO - Started process (PID=892) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:32:51.448+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:32:51.456+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:32:51.455+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:32:51.512+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:32:51.558+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:32:51.557+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:32:51.624+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:32:51.623+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:32:51.669+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.239 seconds
+[2025-06-06T19:33:22.554+0000] {processor.py:186} INFO - Started process (PID=955) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:33:22.556+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:33:22.562+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:33:22.562+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:33:22.617+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:33:22.664+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:33:22.663+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:33:22.733+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:33:22.732+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:33:22.785+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.254 seconds
+[2025-06-06T19:33:53.107+0000] {processor.py:186} INFO - Started process (PID=1018) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:33:53.115+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:33:53.127+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:33:53.126+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:33:53.237+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:33:53.301+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:33:53.300+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:33:53.387+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:33:53.387+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:33:53.452+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.385 seconds
+[2025-06-06T19:34:24.143+0000] {processor.py:186} INFO - Started process (PID=1081) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:34:24.148+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:34:24.156+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:34:24.155+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:34:24.239+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:34:24.327+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:34:24.326+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:34:24.433+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:34:24.432+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:34:24.497+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.377 seconds
+[2025-06-06T19:34:54.944+0000] {processor.py:186} INFO - Started process (PID=1144) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:34:54.949+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:34:54.962+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:34:54.959+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:34:55.031+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:34:55.080+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:34:55.080+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:34:55.140+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:34:55.139+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:34:55.202+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.283 seconds
+[2025-06-06T19:35:25.431+0000] {processor.py:186} INFO - Started process (PID=1206) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:35:25.435+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:35:25.443+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:35:25.441+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:35:25.508+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:35:25.576+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:35:25.576+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:35:25.718+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:35:25.716+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:35:25.797+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.388 seconds
+[2025-06-06T19:35:56.444+0000] {processor.py:186} INFO - Started process (PID=1269) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:35:56.446+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:35:56.452+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:35:56.451+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:35:56.511+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:35:56.552+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:35:56.552+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:35:56.609+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:35:56.608+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:35:56.651+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.221 seconds
+[2025-06-06T19:36:27.324+0000] {processor.py:186} INFO - Started process (PID=1332) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:36:27.327+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:36:27.335+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:36:27.333+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:36:27.395+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:36:27.451+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:36:27.450+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:36:27.533+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:36:27.532+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:36:27.588+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.283 seconds
+[2025-06-06T19:36:58.059+0000] {processor.py:186} INFO - Started process (PID=1401) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:36:58.063+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:36:58.082+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:36:58.081+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:36:58.199+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:36:58.306+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:36:58.305+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:36:58.433+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:36:58.432+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:36:58.557+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.529 seconds
+[2025-06-06T19:37:28.959+0000] {processor.py:186} INFO - Started process (PID=1465) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:37:28.961+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:37:28.967+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:37:28.966+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:37:29.026+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:37:29.079+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:37:29.078+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:37:29.128+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:37:29.128+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:37:29.169+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.226 seconds
+[2025-06-06T19:37:59.369+0000] {processor.py:186} INFO - Started process (PID=1528) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:37:59.372+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:37:59.378+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:37:59.377+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:37:59.439+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:37:59.481+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:37:59.480+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:37:59.532+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:37:59.532+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:37:59.573+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.217 seconds
+[2025-06-06T19:38:29.852+0000] {processor.py:186} INFO - Started process (PID=1590) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:38:29.856+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:38:29.862+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:38:29.860+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:38:29.928+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:38:29.970+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:38:29.969+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:38:30.023+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:38:30.022+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:38:30.064+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.233 seconds
+[2025-06-06T19:39:00.328+0000] {processor.py:186} INFO - Started process (PID=1655) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:39:00.331+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:39:00.337+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:39:00.336+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:39:00.414+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:39:00.459+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:39:00.458+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:39:00.524+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:39:00.524+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:39:00.561+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.254 seconds
+[2025-06-06T19:39:30.690+0000] {processor.py:186} INFO - Started process (PID=1718) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:39:30.693+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:39:30.698+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:39:30.697+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:39:30.758+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:39:30.798+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:39:30.797+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:39:30.846+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:39:30.846+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:39:30.889+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.215 seconds
+[2025-06-06T19:40:01.273+0000] {processor.py:186} INFO - Started process (PID=1781) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:40:01.276+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:40:01.283+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:40:01.280+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:40:01.351+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:40:01.395+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:40:01.394+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:40:01.474+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:40:01.474+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:40:01.525+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.270 seconds
+[2025-06-06T19:40:31.738+0000] {processor.py:186} INFO - Started process (PID=1844) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:40:31.740+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:40:31.745+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:40:31.744+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:40:31.799+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:40:31.840+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:40:31.839+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:40:31.894+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:40:31.893+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:40:31.937+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.214 seconds
+[2025-06-06T19:41:02.052+0000] {processor.py:186} INFO - Started process (PID=1905) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:41:02.055+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:41:02.062+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:41:02.061+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:41:02.130+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:41:02.179+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:41:02.178+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:41:02.237+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:41:02.236+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:41:02.284+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.253 seconds
+[2025-06-06T19:41:32.389+0000] {processor.py:186} INFO - Started process (PID=1968) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:41:32.392+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:41:32.400+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:41:32.399+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:41:32.462+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:41:32.505+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:41:32.505+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:41:32.567+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:41:32.566+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:41:32.618+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.246 seconds
+[2025-06-06T19:42:03.346+0000] {processor.py:186} INFO - Started process (PID=2031) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:42:03.349+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:42:03.357+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:42:03.355+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:42:03.431+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:42:03.497+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:42:03.496+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:42:03.591+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:42:03.590+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:42:03.659+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.336 seconds
+[2025-06-06T19:42:34.212+0000] {processor.py:186} INFO - Started process (PID=2094) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:42:34.216+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:42:34.223+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:42:34.222+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:42:34.296+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:42:34.341+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:42:34.340+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:42:34.415+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:42:34.414+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:42:34.468+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.274 seconds
+[2025-06-06T19:43:05.125+0000] {processor.py:186} INFO - Started process (PID=2157) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:43:05.127+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:43:05.132+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:43:05.131+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:43:05.183+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:43:05.233+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:43:05.232+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:43:05.282+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:43:05.282+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:43:05.323+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.213 seconds
+[2025-06-06T19:43:35.547+0000] {processor.py:186} INFO - Started process (PID=2213) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:43:35.550+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:43:35.555+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:43:35.554+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:43:35.605+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:43:35.647+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:43:35.646+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:43:35.701+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:43:35.701+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:43:35.748+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.215 seconds
+[2025-06-06T19:44:06.783+0000] {processor.py:186} INFO - Started process (PID=2275) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:44:06.785+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:44:06.791+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:44:06.790+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:44:06.845+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:44:06.893+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:44:06.893+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:44:06.961+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:44:06.960+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:44:07.011+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.242 seconds
+[2025-06-06T19:44:37.172+0000] {processor.py:186} INFO - Started process (PID=2336) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:44:37.176+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:44:37.186+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:44:37.184+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:44:37.258+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:44:37.312+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:44:37.311+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:44:37.389+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:44:37.388+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:44:37.443+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.294 seconds
+[2025-06-06T19:45:07.589+0000] {processor.py:186} INFO - Started process (PID=2399) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:45:07.592+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:45:07.601+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:45:07.600+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:45:07.683+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:45:07.744+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:45:07.743+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:45:07.814+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:45:07.813+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:45:07.868+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.293 seconds
+[2025-06-06T19:45:38.601+0000] {processor.py:186} INFO - Started process (PID=2462) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:45:38.604+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:45:38.613+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:45:38.612+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:45:38.706+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:45:38.777+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:45:38.776+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:45:38.875+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:45:38.874+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:45:38.961+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.381 seconds
+[2025-06-06T19:46:09.173+0000] {processor.py:186} INFO - Started process (PID=2525) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:46:09.175+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:46:09.186+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:46:09.185+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:46:09.265+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:46:09.315+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:46:09.315+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:46:09.379+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:46:09.379+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:46:09.429+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.277 seconds
+[2025-06-06T19:46:40.099+0000] {processor.py:186} INFO - Started process (PID=2588) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:46:40.103+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:46:40.118+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:46:40.116+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:46:40.318+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:46:40.393+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:46:40.392+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:46:40.510+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:46:40.509+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:46:40.613+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.581 seconds
+[2025-06-06T19:47:10.898+0000] {processor.py:186} INFO - Started process (PID=2651) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:47:10.901+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:47:10.909+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:47:10.908+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:47:10.963+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:47:11.007+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:47:11.006+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:47:11.067+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:47:11.067+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:47:11.151+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.268 seconds
+[2025-06-06T19:47:41.466+0000] {processor.py:186} INFO - Started process (PID=2714) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:47:41.470+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:47:41.479+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:47:41.477+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:47:41.551+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:47:41.616+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:47:41.616+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:47:41.691+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:47:41.690+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:47:41.782+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.355 seconds
+[2025-06-06T19:48:12.134+0000] {processor.py:186} INFO - Started process (PID=2777) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:48:12.138+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:48:12.146+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:48:12.145+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:48:12.220+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:48:12.266+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:48:12.266+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:48:12.326+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:48:12.325+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:48:12.392+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.280 seconds
+[2025-06-06T19:48:42.824+0000] {processor.py:186} INFO - Started process (PID=2840) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:48:42.827+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:48:42.834+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:48:42.832+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:48:42.951+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:48:43.055+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:48:43.054+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:48:43.187+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:48:43.186+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:48:43.250+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.446 seconds
+[2025-06-06T19:49:13.635+0000] {processor.py:186} INFO - Started process (PID=2903) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:49:13.638+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:49:13.647+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:49:13.646+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:49:13.710+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:49:13.759+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:49:13.758+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:49:13.813+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:49:13.813+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:49:13.855+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.238 seconds
+[2025-06-06T19:49:43.960+0000] {processor.py:186} INFO - Started process (PID=2966) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:49:43.962+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:49:43.967+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:49:43.967+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:49:44.029+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:49:44.078+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:49:44.078+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:49:44.144+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:49:44.143+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:49:44.184+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.239 seconds
+[2025-06-06T19:50:14.851+0000] {processor.py:186} INFO - Started process (PID=3029) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:50:14.853+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:50:14.858+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:50:14.858+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:50:14.916+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:50:14.959+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:50:14.959+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:50:15.008+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:50:15.008+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:50:15.046+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.208 seconds
+[2025-06-06T19:50:45.475+0000] {processor.py:186} INFO - Started process (PID=3091) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:50:45.478+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:50:45.483+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:50:45.482+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:50:45.552+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:50:45.597+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:50:45.597+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:50:45.657+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:50:45.657+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:50:45.707+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.248 seconds
+[2025-06-06T19:51:15.819+0000] {processor.py:186} INFO - Started process (PID=3150) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:51:15.821+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:51:15.826+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:51:15.826+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:51:15.879+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:51:15.921+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:51:15.920+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:51:15.971+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:51:15.971+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:51:16.018+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.214 seconds
+[2025-06-06T19:51:46.815+0000] {processor.py:186} INFO - Started process (PID=3209) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:51:46.817+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:51:46.823+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:51:46.822+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:51:46.879+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:51:47.244+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:51:47.244+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:51:47.297+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:51:47.296+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:51:47.343+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.545 seconds
+[2025-06-06T19:52:17.671+0000] {processor.py:186} INFO - Started process (PID=3272) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:52:17.673+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:52:17.678+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:52:17.678+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:52:17.735+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:52:18.055+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:52:18.054+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:52:18.100+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:52:18.100+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:52:18.139+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.481 seconds
+[2025-06-06T19:52:48.379+0000] {processor.py:186} INFO - Started process (PID=3335) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:52:48.382+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:52:48.389+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:52:48.388+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:52:48.452+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:52:48.493+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:52:48.492+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:52:48.542+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:52:48.542+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:52:48.583+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.218 seconds
+[2025-06-06T19:53:18.996+0000] {processor.py:186} INFO - Started process (PID=3396) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:53:18.998+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:53:19.004+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:53:19.003+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:53:19.082+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:53:19.154+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:53:19.154+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:53:19.243+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:53:19.242+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:53:19.295+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.319 seconds
+[2025-06-06T19:53:49.873+0000] {processor.py:186} INFO - Started process (PID=3459) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:53:49.875+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:53:49.886+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:53:49.884+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:53:49.945+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:53:49.991+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:53:49.991+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:53:50.055+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:53:50.054+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:53:50.100+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.243 seconds
+[2025-06-06T19:54:20.834+0000] {processor.py:186} INFO - Started process (PID=3521) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:54:20.837+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:54:20.842+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:54:20.842+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:54:20.906+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:54:21.001+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:54:21.000+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:54:21.075+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:54:21.075+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:54:21.127+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.318 seconds
+[2025-06-06T19:54:51.328+0000] {processor.py:186} INFO - Started process (PID=3584) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:54:51.334+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:54:51.345+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:54:51.344+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:54:51.410+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:54:51.451+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:54:51.450+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:54:51.504+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:54:51.504+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:54:51.546+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.238 seconds
+[2025-06-06T19:55:22.318+0000] {processor.py:186} INFO - Started process (PID=3647) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:55:22.328+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:55:22.345+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:55:22.344+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:55:22.468+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:55:22.586+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:55:22.577+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:55:22.686+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:55:22.685+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:55:22.760+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.471 seconds
+[2025-06-06T19:55:53.699+0000] {processor.py:186} INFO - Started process (PID=3710) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:55:53.702+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:55:53.711+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:55:53.709+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:55:53.787+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:55:53.845+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:55:53.845+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:55:53.933+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:55:53.932+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:55:53.989+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.305 seconds
+[2025-06-06T19:56:24.139+0000] {processor.py:186} INFO - Started process (PID=3773) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:56:24.141+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:56:24.148+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:56:24.148+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:56:24.212+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:56:24.258+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:56:24.258+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:56:24.315+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:56:24.314+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:56:24.362+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.239 seconds
+[2025-06-06T19:56:55.142+0000] {processor.py:186} INFO - Started process (PID=3836) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:56:55.150+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:56:55.160+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:56:55.158+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:56:55.258+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:56:55.331+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:56:55.330+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:56:55.479+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:56:55.478+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:56:55.566+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.465 seconds
+[2025-06-06T19:57:25.724+0000] {processor.py:186} INFO - Started process (PID=3898) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:57:25.726+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:57:25.731+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:57:25.730+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:57:25.789+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:57:25.834+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:57:25.833+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:57:25.889+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:57:25.889+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:57:25.930+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.219 seconds
+[2025-06-06T19:57:56.250+0000] {processor.py:186} INFO - Started process (PID=3961) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:57:56.252+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:57:56.258+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:57:56.257+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:57:56.322+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:57:56.370+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:57:56.369+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:57:56.432+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:57:56.432+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:57:56.476+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.239 seconds
+[2025-06-06T19:58:26.709+0000] {processor.py:186} INFO - Started process (PID=4024) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:58:26.712+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:58:26.719+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:58:26.718+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:58:26.790+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:58:26.839+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:58:26.838+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:58:26.894+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:58:26.893+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:58:26.941+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.252 seconds
+[2025-06-06T19:58:57.086+0000] {processor.py:186} INFO - Started process (PID=4087) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:58:57.089+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:58:57.104+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:58:57.103+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:58:57.165+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:58:57.216+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:58:57.216+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:58:57.270+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:58:57.270+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:58:57.309+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.239 seconds
+[2025-06-06T19:59:27.822+0000] {processor.py:186} INFO - Started process (PID=4150) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:59:27.824+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:59:27.829+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:59:27.829+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:59:27.897+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:59:27.950+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:59:27.949+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:59:28.022+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:59:28.022+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:59:28.075+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.268 seconds
+[2025-06-06T19:59:58.684+0000] {processor.py:186} INFO - Started process (PID=4213) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:59:58.686+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T19:59:58.694+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:59:58.693+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:59:58.764+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T19:59:58.806+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:59:58.805+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T19:59:58.867+0000] {logging_mixin.py:190} INFO - [2025-06-06T19:59:58.866+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T19:59:58.911+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.241 seconds
+[2025-06-06T20:00:29.056+0000] {processor.py:186} INFO - Started process (PID=4276) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:00:29.058+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:00:29.064+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:00:29.063+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:00:29.128+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:00:29.169+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:00:29.169+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:00:29.226+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:00:29.225+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:00:29.271+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.231 seconds
+[2025-06-06T20:00:59.532+0000] {processor.py:186} INFO - Started process (PID=4339) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:00:59.535+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:00:59.541+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:00:59.540+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:00:59.598+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:00:59.643+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:00:59.642+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:00:59.697+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:00:59.696+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:00:59.743+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.227 seconds
+[2025-06-06T20:01:29.860+0000] {processor.py:186} INFO - Started process (PID=4402) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:01:29.862+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:01:29.867+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:01:29.867+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:01:29.927+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:01:29.972+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:01:29.971+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:01:30.025+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:01:30.025+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:01:30.072+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.228 seconds
+[2025-06-06T20:02:00.593+0000] {processor.py:186} INFO - Started process (PID=4464) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:02:00.596+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:02:00.603+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:02:00.601+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:02:00.685+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:02:00.741+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:02:00.740+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:02:00.827+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:02:00.826+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:02:00.884+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.323 seconds
+[2025-06-06T20:02:31.540+0000] {processor.py:186} INFO - Started process (PID=4527) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:02:31.542+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:02:31.548+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:02:31.547+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:02:31.608+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:02:31.656+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:02:31.655+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:02:31.710+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:02:31.710+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:02:31.749+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.230 seconds
+[2025-06-06T20:03:02.146+0000] {processor.py:186} INFO - Started process (PID=4589) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:03:02.148+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:03:02.154+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:03:02.153+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:03:02.218+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:03:02.266+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:03:02.265+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:03:02.324+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:03:02.324+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:03:02.375+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.246 seconds
+[2025-06-06T20:03:32.652+0000] {processor.py:186} INFO - Started process (PID=4652) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:03:32.654+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:03:32.660+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:03:32.659+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:03:32.725+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:03:32.767+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:03:32.766+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:03:32.818+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:03:32.817+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:03:32.863+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.227 seconds
+[2025-06-06T20:04:03.112+0000] {processor.py:186} INFO - Started process (PID=4714) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:04:03.120+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:04:03.129+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:04:03.128+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:04:03.211+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:04:03.275+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:04:03.275+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:04:03.367+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:04:03.366+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:04:03.457+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.369 seconds
+[2025-06-06T20:04:33.942+0000] {processor.py:186} INFO - Started process (PID=4784) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:04:33.945+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:04:33.950+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:04:33.949+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:04:34.011+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:04:34.053+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:04:34.053+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:04:34.105+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:04:34.104+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:04:34.146+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.217 seconds
+[2025-06-06T20:05:04.387+0000] {processor.py:186} INFO - Started process (PID=4847) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:05:04.389+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:05:04.394+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:05:04.393+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:05:04.450+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:05:04.493+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:05:04.493+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:05:04.544+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:05:04.543+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:05:04.585+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.216 seconds
+[2025-06-06T20:05:34.699+0000] {processor.py:186} INFO - Started process (PID=4910) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:05:34.701+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:05:34.706+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:05:34.706+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:05:34.767+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:05:34.815+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:05:34.814+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:05:34.881+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:05:34.881+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:05:34.923+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.238 seconds
+[2025-06-06T20:06:05.486+0000] {processor.py:186} INFO - Started process (PID=4971) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:06:05.489+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:06:05.495+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:06:05.495+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:06:05.561+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:06:05.609+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:06:05.608+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:06:05.661+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:06:05.660+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:06:05.704+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.231 seconds
+[2025-06-06T20:06:35.824+0000] {processor.py:186} INFO - Started process (PID=5034) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:06:35.827+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:06:35.835+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:06:35.834+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:06:35.936+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:06:35.998+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:06:35.997+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:06:36.074+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:06:36.074+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:06:36.148+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.355 seconds
+[2025-06-06T20:07:06.769+0000] {processor.py:186} INFO - Started process (PID=5098) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:07:06.772+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:07:06.781+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:07:06.780+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:07:06.847+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:07:06.902+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:07:06.901+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:07:06.980+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:07:06.979+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:07:07.037+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.290 seconds
+[2025-06-06T20:07:37.338+0000] {processor.py:186} INFO - Started process (PID=5161) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:07:37.341+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:07:37.348+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:07:37.347+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:07:37.417+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:07:37.473+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:07:37.473+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:07:37.557+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:07:37.556+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:07:37.622+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.307 seconds
+[2025-06-06T20:08:07.961+0000] {processor.py:186} INFO - Started process (PID=5225) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:08:07.963+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:08:07.968+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:08:07.968+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:08:08.022+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:08:08.066+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:08:08.066+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:08:08.116+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:08:08.115+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:08:08.153+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.205 seconds
+[2025-06-06T20:08:38.314+0000] {processor.py:186} INFO - Started process (PID=5287) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:08:38.317+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:08:38.323+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:08:38.323+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:08:38.389+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:08:38.442+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:08:38.441+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:08:38.516+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:08:38.515+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:08:38.561+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.271 seconds
+[2025-06-06T20:09:09.254+0000] {processor.py:186} INFO - Started process (PID=5350) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:09:09.257+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:09:09.263+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:09:09.262+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:09:09.332+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:09:09.417+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:09:09.416+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:09:09.520+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:09:09.519+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:09:09.580+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.344 seconds
+[2025-06-06T20:09:39.721+0000] {processor.py:186} INFO - Started process (PID=5413) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:09:39.723+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:09:39.733+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:09:39.732+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:09:39.804+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:09:39.855+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:09:39.854+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:09:39.925+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:09:39.924+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:09:39.974+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.271 seconds
+[2025-06-06T20:10:10.519+0000] {processor.py:186} INFO - Started process (PID=5477) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:10:10.522+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:10:10.529+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:10:10.528+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:10:10.604+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:10:10.647+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:10:10.647+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:10:10.699+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:10:10.699+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:10:10.741+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.238 seconds
+[2025-06-06T20:10:40.921+0000] {processor.py:186} INFO - Started process (PID=5540) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:10:40.923+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:10:40.930+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:10:40.929+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:10:40.994+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:10:41.041+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:10:41.040+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:10:41.099+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:10:41.099+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:10:41.147+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.243 seconds
+[2025-06-06T20:11:11.279+0000] {processor.py:186} INFO - Started process (PID=5603) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:11:11.281+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:11:11.291+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:11:11.288+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:11:11.362+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:11:11.409+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:11:11.409+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:11:11.465+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:11:11.464+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:11:11.511+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.252 seconds
+[2025-06-06T20:11:42.037+0000] {processor.py:186} INFO - Started process (PID=5666) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:11:42.040+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:11:42.051+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:11:42.048+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:11:42.140+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:11:42.265+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:11:42.264+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:11:42.437+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:11:42.436+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:11:42.524+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.512 seconds
+[2025-06-06T20:12:12.795+0000] {processor.py:186} INFO - Started process (PID=5729) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:12:12.798+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:12:12.807+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:12:12.805+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:12:12.876+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:12:12.920+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:12:12.919+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:12:12.981+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:12:12.980+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:12:13.029+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.251 seconds
+[2025-06-06T20:12:43.260+0000] {processor.py:186} INFO - Started process (PID=5793) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:12:43.262+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:12:43.268+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:12:43.267+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:12:43.335+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:12:43.385+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:12:43.384+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:12:43.451+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:12:43.451+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:12:43.498+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.253 seconds
+[2025-06-06T20:13:13.855+0000] {processor.py:186} INFO - Started process (PID=5857) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:13:13.858+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:13:13.864+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:13:13.863+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:13:13.921+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:13:13.960+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:13:13.960+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:13:14.011+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:13:14.011+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:13:14.053+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.215 seconds
+[2025-06-06T20:13:44.377+0000] {processor.py:186} INFO - Started process (PID=5920) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:13:44.379+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:13:44.386+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:13:44.385+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:13:44.448+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:13:44.489+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:13:44.489+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:13:44.538+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:13:44.538+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:13:44.579+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.216 seconds
+[2025-06-06T20:14:16.591+0000] {processor.py:186} INFO - Started process (PID=5983) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:14:16.604+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:14:16.614+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:14:16.613+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:14:16.775+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:14:16.913+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:14:16.913+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:14:17.037+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:14:17.036+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:14:17.156+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.621 seconds
+[2025-06-06T20:14:48.041+0000] {processor.py:186} INFO - Started process (PID=6046) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:14:48.044+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:14:48.057+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:14:48.056+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:14:48.128+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:14:48.190+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:14:48.189+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:14:48.270+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:14:48.269+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:14:48.327+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.305 seconds
+[2025-06-06T20:15:18.696+0000] {processor.py:186} INFO - Started process (PID=6109) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:15:18.699+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:15:18.705+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:15:18.705+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:15:18.768+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:15:18.805+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:15:18.805+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:15:18.865+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:15:18.865+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:15:18.916+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.232 seconds
+[2025-06-06T20:15:49.086+0000] {processor.py:186} INFO - Started process (PID=6172) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:15:49.097+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:15:49.106+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:15:49.105+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:15:49.201+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:15:49.282+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:15:49.280+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:15:49.360+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:15:49.359+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:15:49.402+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.338 seconds
+[2025-06-06T20:16:19.533+0000] {processor.py:186} INFO - Started process (PID=6235) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:16:19.535+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:16:19.540+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:16:19.539+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:16:19.604+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:16:19.646+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:16:19.646+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:16:19.696+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:16:19.695+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:16:19.736+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.217 seconds
+[2025-06-06T20:16:50.389+0000] {processor.py:186} INFO - Started process (PID=6298) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:16:50.391+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:16:50.398+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:16:50.397+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:16:50.462+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:16:50.500+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:16:50.500+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:16:50.554+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:16:50.553+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:16:50.604+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.232 seconds
+[2025-06-06T20:17:20.814+0000] {processor.py:186} INFO - Started process (PID=6362) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:17:20.816+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:17:20.823+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:17:20.823+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:17:20.885+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:17:20.947+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:17:20.946+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:17:21.009+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:17:21.008+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:17:21.059+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.257 seconds
+[2025-06-06T20:17:51.558+0000] {processor.py:186} INFO - Started process (PID=6425) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:17:51.561+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:17:51.573+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:17:51.572+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:17:51.654+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:17:51.720+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:17:51.719+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:17:51.795+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:17:51.794+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:17:51.848+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.326 seconds
+[2025-06-06T20:18:22.029+0000] {processor.py:186} INFO - Started process (PID=6488) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:18:22.032+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:18:22.041+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:18:22.040+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:18:22.117+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:18:22.174+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:18:22.173+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:18:22.236+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:18:22.236+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:18:22.287+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.277 seconds
+[2025-06-06T20:18:52.646+0000] {processor.py:186} INFO - Started process (PID=6549) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:18:52.651+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:18:52.673+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:18:52.672+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:18:52.821+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:18:52.937+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:18:52.936+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:18:53.075+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:18:53.074+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:18:53.174+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.600 seconds
+[2025-06-06T20:19:24.205+0000] {processor.py:186} INFO - Started process (PID=6612) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:19:24.208+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:19:24.217+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:19:24.215+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:19:24.316+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:19:24.403+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:19:24.402+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:19:24.515+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:19:24.515+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:19:24.653+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.475 seconds
+[2025-06-06T20:19:54.957+0000] {processor.py:186} INFO - Started process (PID=6674) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:19:54.959+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:19:54.965+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:19:54.964+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:19:55.029+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:19:55.071+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:19:55.070+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:19:55.123+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:19:55.123+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:19:55.168+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.225 seconds
+[2025-06-06T20:20:25.658+0000] {processor.py:186} INFO - Started process (PID=6736) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:20:25.661+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:20:25.669+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:20:25.668+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:20:25.739+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:20:25.787+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:20:25.786+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:20:25.862+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:20:25.862+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:20:25.915+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.278 seconds
+[2025-06-06T20:20:56.057+0000] {processor.py:186} INFO - Started process (PID=6799) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:20:56.061+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:20:56.069+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:20:56.068+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:20:56.147+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:20:56.202+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:20:56.202+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:20:56.277+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:20:56.276+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:20:56.337+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.302 seconds
+[2025-06-06T20:21:26.466+0000] {processor.py:186} INFO - Started process (PID=6861) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:21:26.469+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:21:26.476+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:21:26.475+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:21:26.535+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:21:26.582+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:21:26.582+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:21:26.635+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:21:26.634+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:21:26.683+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.234 seconds
+[2025-06-06T20:21:56.819+0000] {processor.py:186} INFO - Started process (PID=6921) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:21:56.824+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:21:56.832+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:21:56.830+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:21:56.898+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:21:56.973+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:21:56.972+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:21:57.043+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:21:57.042+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:21:57.099+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.301 seconds
+[2025-06-06T20:22:27.829+0000] {processor.py:186} INFO - Started process (PID=6984) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:22:27.831+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:22:27.838+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:22:27.837+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:22:27.903+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:22:27.946+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:22:27.945+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:22:27.999+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:22:27.998+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:22:28.039+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.226 seconds
+[2025-06-06T20:22:58.753+0000] {processor.py:186} INFO - Started process (PID=7042) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:22:58.756+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:22:58.765+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:22:58.764+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:22:58.844+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:22:58.929+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:22:58.928+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:22:59.082+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:22:59.081+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:22:59.183+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.457 seconds
+[2025-06-06T20:23:29.649+0000] {processor.py:186} INFO - Started process (PID=7105) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:23:29.651+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:23:29.656+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:23:29.656+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:23:29.718+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:23:29.767+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:23:29.766+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:23:29.832+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:23:29.832+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:23:29.874+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.240 seconds
+[2025-06-06T20:24:00.283+0000] {processor.py:186} INFO - Started process (PID=7168) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:24:00.286+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:24:00.294+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:24:00.293+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:24:00.359+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:24:00.417+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:24:00.416+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:24:00.520+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:24:00.520+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:24:00.633+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.378 seconds
+[2025-06-06T20:24:31.768+0000] {processor.py:186} INFO - Started process (PID=7231) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:24:31.770+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:24:31.776+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:24:31.775+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:24:31.834+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:24:31.878+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:24:31.877+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:24:31.934+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:24:31.934+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:24:31.974+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.221 seconds
+[2025-06-06T20:25:02.199+0000] {processor.py:186} INFO - Started process (PID=7292) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:25:02.201+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:25:02.206+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:25:02.205+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:25:02.265+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:25:02.311+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:25:02.311+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:25:02.366+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:25:02.366+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:25:02.417+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.234 seconds
+[2025-06-06T20:25:32.967+0000] {processor.py:186} INFO - Started process (PID=7355) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:25:32.969+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:25:32.975+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:25:32.974+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:25:33.037+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:25:33.080+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:25:33.079+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:25:33.137+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:25:33.137+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:25:33.178+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.224 seconds
+[2025-06-06T20:26:03.327+0000] {processor.py:186} INFO - Started process (PID=7418) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:26:03.329+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:26:03.337+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:26:03.336+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:26:03.402+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:26:03.451+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:26:03.451+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:26:03.527+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:26:03.527+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:26:03.575+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.264 seconds
+[2025-06-06T20:26:33.924+0000] {processor.py:186} INFO - Started process (PID=7476) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:26:33.927+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:26:33.933+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:26:33.932+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:26:33.992+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:26:34.035+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:26:34.035+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:26:34.094+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:26:34.093+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:26:34.138+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.234 seconds
+[2025-06-06T20:27:04.813+0000] {processor.py:186} INFO - Started process (PID=7536) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:27:04.815+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:27:04.822+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:27:04.821+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:27:04.887+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:27:04.936+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:27:04.935+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:27:05.008+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:27:05.008+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:27:05.084+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.289 seconds
+[2025-06-06T20:27:36.128+0000] {processor.py:186} INFO - Started process (PID=7598) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:27:36.131+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:27:36.137+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:27:36.136+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:27:36.207+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:27:36.257+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:27:36.256+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:27:36.331+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:27:36.330+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:27:36.380+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.269 seconds
+[2025-06-06T20:28:06.955+0000] {processor.py:186} INFO - Started process (PID=7661) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:28:06.957+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:28:06.963+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:28:06.962+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:28:07.030+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:28:07.074+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:28:07.073+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:28:07.132+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:28:07.132+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:28:07.177+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.243 seconds
+[2025-06-06T20:28:37.344+0000] {processor.py:186} INFO - Started process (PID=7724) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:28:37.346+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:28:37.351+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:28:37.351+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:28:37.425+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:28:37.479+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:28:37.479+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:28:37.549+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:28:37.548+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:28:37.595+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.267 seconds
+[2025-06-06T20:29:08.163+0000] {processor.py:186} INFO - Started process (PID=7787) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:29:08.166+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:29:08.173+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:29:08.172+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:29:08.235+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:29:08.289+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:29:08.288+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:29:08.345+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:29:08.344+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:29:08.386+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.239 seconds
+[2025-06-06T20:29:38.752+0000] {processor.py:186} INFO - Started process (PID=7850) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:29:38.756+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:29:38.765+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:29:38.764+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:29:38.845+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:29:38.904+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:29:38.903+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:29:39.004+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:29:39.003+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:29:39.053+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.322 seconds
+[2025-06-06T20:30:09.322+0000] {processor.py:186} INFO - Started process (PID=7912) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:30:09.325+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:30:09.331+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:30:09.330+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:30:09.403+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:30:09.464+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:30:09.463+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:30:09.548+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:30:09.548+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:30:09.597+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.293 seconds
+[2025-06-06T20:30:39.750+0000] {processor.py:186} INFO - Started process (PID=7981) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:30:39.752+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:30:39.759+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:30:39.757+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:30:39.836+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:30:39.884+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:30:39.883+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:30:39.952+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:30:39.952+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:30:39.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.264 seconds
+[2025-06-06T20:31:10.216+0000] {processor.py:186} INFO - Started process (PID=8044) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:31:10.218+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:31:10.223+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:31:10.223+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:31:10.281+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:31:10.321+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:31:10.320+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:31:10.370+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:31:10.370+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:31:10.413+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.211 seconds
+[2025-06-06T20:31:40.532+0000] {processor.py:186} INFO - Started process (PID=8105) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:31:40.535+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:31:40.544+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:31:40.543+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:31:40.620+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:31:40.687+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:31:40.686+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:31:40.778+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:31:40.777+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:31:40.835+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.328 seconds
+[2025-06-06T20:32:11.065+0000] {processor.py:186} INFO - Started process (PID=8168) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:32:11.068+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:32:11.074+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:32:11.073+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:32:11.143+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:32:11.194+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:32:11.194+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:32:11.248+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:32:11.247+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:32:11.288+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.237 seconds
+[2025-06-06T20:32:41.576+0000] {processor.py:186} INFO - Started process (PID=8231) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:32:41.578+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:32:41.586+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:32:41.585+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:32:41.658+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:32:41.701+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:32:41.700+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:32:41.762+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:32:41.762+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:32:41.803+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.248 seconds
+[2025-06-06T20:33:12.243+0000] {processor.py:186} INFO - Started process (PID=8294) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:33:12.246+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:33:12.251+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:33:12.250+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:33:12.313+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:33:12.354+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:33:12.353+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:33:12.403+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:33:12.403+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:33:12.446+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.217 seconds
+[2025-06-06T20:33:42.685+0000] {processor.py:186} INFO - Started process (PID=8357) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:33:42.687+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:33:42.693+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:33:42.692+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:33:42.780+0000] {processor.py:925} INFO - DAG(s) 'mongo_db' retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:33:42.855+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:33:42.854+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-06-06T20:33:42.948+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:33:42.947+0000] {dag.py:4156} INFO - Setting next_dagrun for mongo_db to 2025-06-06 00:00:00+00:00, run_after=2025-06-07 00:00:00+00:00
+[2025-06-06T20:33:43.025+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.354 seconds
+[2025-06-06T20:34:13.320+0000] {processor.py:186} INFO - Started process (PID=8420) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:34:13.411+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:34:13.435+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:34:13.434+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:34:13.487+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:34:13.486+0000] {dagbag.py:365} INFO - File /opt/airflow/dags/alimenta_mysql.py assumed to contain no DAGs. Skipping.
+[2025-06-06T20:34:13.491+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:34:13.570+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.294 seconds
+[2025-06-06T20:34:44.017+0000] {processor.py:186} INFO - Started process (PID=8483) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:34:44.019+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:34:44.025+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:34:44.024+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:34:44.044+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:34:44.043+0000] {dagbag.py:365} INFO - File /opt/airflow/dags/alimenta_mysql.py assumed to contain no DAGs. Skipping.
+[2025-06-06T20:34:44.045+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:34:44.077+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.076 seconds
+[2025-06-06T20:35:14.464+0000] {processor.py:186} INFO - Started process (PID=8546) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:35:14.466+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:35:14.473+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:35:14.472+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:35:14.493+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:35:14.493+0000] {dagbag.py:365} INFO - File /opt/airflow/dags/alimenta_mysql.py assumed to contain no DAGs. Skipping.
+[2025-06-06T20:35:14.494+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:35:14.531+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.086 seconds
+[2025-06-06T20:35:44.705+0000] {processor.py:186} INFO - Started process (PID=8609) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:35:44.706+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:35:44.709+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:35:44.708+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:35:44.723+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:35:44.722+0000] {dagbag.py:365} INFO - File /opt/airflow/dags/alimenta_mysql.py assumed to contain no DAGs. Skipping.
+[2025-06-06T20:35:44.724+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:35:44.752+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.061 seconds
+[2025-06-06T20:36:15.330+0000] {processor.py:186} INFO - Started process (PID=8669) to work on /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:36:15.333+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/alimenta_mysql.py for tasks to queue
+[2025-06-06T20:36:15.337+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:36:15.336+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:36:15.359+0000] {logging_mixin.py:190} INFO - [2025-06-06T20:36:15.359+0000] {dagbag.py:365} INFO - File /opt/airflow/dags/alimenta_mysql.py assumed to contain no DAGs. Skipping.
+[2025-06-06T20:36:15.360+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/alimenta_mysql.py
+[2025-06-06T20:36:15.389+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/alimenta_mysql.py took 0.072 seconds
