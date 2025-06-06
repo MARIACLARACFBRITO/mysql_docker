@@ -7,14 +7,14 @@ Follow the steps below to ensure everything works as expected:
 Open your terminal and run the command below to clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/MARIACLARACFBRITO/mysql_docker.git
 ```
 
 
 # 2. Navigate to the Repository Directory
 Enter the folder of the cloned repository:
 ```
-cd 
+cd mysql_docker
 
 ```
 
