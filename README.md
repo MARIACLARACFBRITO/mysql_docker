@@ -53,7 +53,7 @@ docker ps
 Copy the mysql CONTAINER ID. And then paste the content on <nome_do_container> of the next command.
  
 ```
-docker exec -it <nome_do_container> mysql bash
+docker exec -it <nome_do_container> bash
 ```
 
 And then:
